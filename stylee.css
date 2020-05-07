@@ -1,0 +1,59 @@
+#website-header {
+	alignment-baseline: middle;
+	background: #ff7f50 ;
+	
+	height: 130px;
+	padding-top: 50px;
+	padding-left: 35px;
+
+	
+	
+}
+#Title {
+	font-family: verdana;
+
+}
+
+rag {
+	float: right;
+	padding: 50px;
+	font-family: verdana;
+
+	font-size: 25px;
+	background-color:#FEA47F; 
+
+}
+#img {
+
+float: left;
+width: 70%;
+
+
+
+}
+ #ul {
+float: right;
+padding-top: 20px;
+ padding-right: 13px ;
+
+ }
+ #il {
+ 	display: inline-block;
+ 	padding-right: 13px;
+ 	font-weight: bold;
+ }
+ #para {
+ 	
+
+ 	font-family: georgia;
+ 	font-size: 56px;
+ 	float: right;
+ 	width: 29%;
+ }
+#footer {
+	
+	background:#ff7f50; 
+	padding: 30px;
+}
+
+
